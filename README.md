@@ -1,6 +1,14 @@
 # Loon 策略图标库
 
-Loon 配置策略组图标集合，可直接订阅引用。
+Loon 策略组图标集合，支持一键订阅。
+
+## 一键订阅
+
+在 iPhone 上用 Safari 打开（已安装 Loon）：
+
+[一键导入图标包](https://www.nsloon.com/openloon/import?iconset=https://raw.githubusercontent.com/leehao321/icon/main/icon.json)
+
+图标包订阅地址：`https://raw.githubusercontent.com/leehao321/icon/main/icon.json`
 
 ## 使用方法
 
@@ -67,3 +75,4 @@ Loon 配置策略组图标集合，可直接订阅引用。
 | ![img](icons/WhatsApp_badge.png) | `WhatsApp_badge.png` | `https://raw.githubusercontent.com/leehao321/icon/main/icons/WhatsApp_badge.png` |
 | ![img](icons/YouTube.png) | `YouTube.png` | `https://raw.githubusercontent.com/leehao321/icon/main/icons/YouTube.png` |
 | ![img](icons/bilibili.png) | `bilibili.png` | `https://raw.githubusercontent.com/leehao321/icon/main/icons/bilibili.png` |
+

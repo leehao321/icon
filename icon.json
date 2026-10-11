@@ -1,0 +1,234 @@
+{
+  "name": "Loon 策略图标包",
+  "description": "63 个策略组图标，更新于 2026-10-10",
+  "icons": [
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/AI.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Apple.png"
+    },
+    {
+      "name": "Apple_TV",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Apple_TV.png"
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Auto.png"
+    },
+    {
+      "name": "Available",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Available.png"
+    },
+    {
+      "name": "Bahamut",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Bahamut.png"
+    },
+    {
+      "name": "Canada",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Canada.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/ChatGPT.png"
+    },
+    {
+      "name": "China_Map",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/China_Map.png"
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Direct.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Discord.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Disney+.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Download.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Emby.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Facebook.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Final.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Game.png"
+    },
+    {
+      "name": "Germany",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Germany.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/GitHub.png"
+    },
+    {
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Global.png"
+    },
+    {
+      "name": "Google_Search",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Google_Search.png"
+    },
+    {
+      "name": "HBO",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/HBO.png"
+    },
+    {
+      "name": "Hong_Kong",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Hong_Kong.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Hulu.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Instagram.png"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Japan.png"
+    },
+    {
+      "name": "Korea",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Korea.png"
+    },
+    {
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Line.png"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Linkedin.png"
+    },
+    {
+      "name": "Media",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Media.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Microsoft.png"
+    },
+    {
+      "name": "Netease_Music_Unlock",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Netease_Music_Unlock.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Netflix.png"
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/OneDrive.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/PayPal.png"
+    },
+    {
+      "name": "Prime_Video",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Prime_Video.png"
+    },
+    {
+      "name": "Reddit_badge",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Reddit_badge.png"
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Reject.png"
+    },
+    {
+      "name": "Rocket",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Rocket.png"
+    },
+    {
+      "name": "Scholar",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Scholar.png"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Singapore.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Speedtest.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Spotify.png"
+    },
+    {
+      "name": "Star",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Star.png"
+    },
+    {
+      "name": "Static",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Static.png"
+    },
+    {
+      "name": "Streaming",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Streaming.png"
+    },
+    {
+      "name": "StreamingCN",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/StreamingCN.png"
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Taiwan.png"
+    },
+    {
+      "name": "Telegram_X",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Telegram_X.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/TikTok.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Twitch.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/Twitter.png"
+    },
+    {
+      "name": "United_Kingdom",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/United_Kingdom.png"
+    },
+    {
+      "name": "United_States",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/United_States.png"
+    },
+    {
+      "name": "WhatsApp_badge",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/WhatsApp_badge.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/YouTube.png"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/leehao321/icon/main/icons/bilibili.png"
+    }
+  ]
+}
